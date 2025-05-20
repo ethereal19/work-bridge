@@ -22,9 +22,8 @@ Node.js installed on your machine with latest version or v22.2.0 above
 MongoDB Atlas account (or local MongoDB server)
 Cloudinary account for image storage
 Installation
-Clone the repo:
 
-git clone https://github.com/exclusiveabhi/react-job-portal.git
+
 Install NPM packages:
 
 cd react-job-portal
